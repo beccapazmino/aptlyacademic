@@ -387,11 +387,11 @@ https://templatemo.com/tm-516-known
   }
 
   .home-slider .item-second {
-    background-image: url(/Users/rpazminocalligan/Documents/GitHub/education/kid.jpg);
+    background-image: url("/images/kid.jpg");
   }
 
   .home-slider .item-third {
-    background-image: url(/Users/rpazminocalligan/Documents/GitHub/education/images/courses.jpg);
+    background-image: url("/images/courses.jpg");
   }
 
 
